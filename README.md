@@ -27,32 +27,32 @@ Copy the URL of the following:
 Copy one of them, follow the steps below and repeat the process for all of the files
 
 #### Download the following datasets using wget:
-'''bash
+```bash
 cd ./Data
 wget http://data.insideairbnb.com/united-states/ma/boston/2020-12-21/data/listings.csv.gz
 wget http://data.insideairbnb.com/united-states/ma/boston/2020-12-21/data/calendar.csv.gz
 wget http://data.insideairbnb.com/united-states/ma/boston/2020-12-21/data/reviews.csv.gz
-'''
+```
 
 #### Extract the downloaded datasets using gunzip:
-'''bash
+```bash
 gunzip listings.csv.gz
 gunzip listings.csv.gz
-'''
+```
 
 ## Installation
 
 Python 3 was used for this project.
 
 Install the following Python packages:
-'''bash
+```bash
 pip install pandas numpy seaborn xgboost spacy spacytextblob
-'''
+```
 
 Download Spacy Model file:
-'''bash
+```bash
 python -m spacy download en_core_web_lg
-'''
+```
 
 
 ## Usage
