@@ -37,7 +37,8 @@ wget http://data.insideairbnb.com/united-states/ma/boston/2020-12-21/data/review
 #### Extract the downloaded datasets using gunzip:
 ```bash
 gunzip listings.csv.gz
-gunzip listings.csv.gz
+gunzip calendar.csv.gz
+gunzip reviews.csv.gz
 ```
 
 ## Installation
