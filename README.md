@@ -1,9 +1,14 @@
 # Airbnb Data exploration, analysis and feature engineering
 Airbnb, Inc. is an American vacation rental online marketplace company. Airbnb maintains and hosts a marketplace, accessible to consumers on its website or via an app.
 
+The company has attracted criticism for increasing rent prices in cities where it operates. In response, price prediction models, like the one we are going to build here, will help the consumers and company itself to generate alarms if a listing is being made with unjust price.
+
 This project develops a foundation to perform analysis of the data presented by Airbnb. Data from calendar, listings and reviews are processed, visualized and modelled to analyze and predict the price value of the listings. 
 
 The main objective of this project is to demonstrate how the scrapped data can be formulated into features that will help the model to predict the listing's price. You can evolve this project by adding your own set of features using the features utilized by other projects or even features of your own.
+
+# Medium article
+https://rafayullah.medium.com/airbnb-data-exploration-analysis-and-feature-engineering-edbb47bf115
 
 ## Data
 
