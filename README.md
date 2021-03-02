@@ -65,10 +65,12 @@ python -m spacy download en_core_web_lg
 
 After the acquisition of data and installation of required libraries, at the root of this project the there will be one python jupyter file and a subfolder in which the data must be present.
 To run the notebook, all the cells can be run sequentially, the notebook is segmented into 4 parts:
-* Statistical analysis
-* Modelling
-* Model evaluation
-* Sentiment analysis sample
+* Business Understanding
+* Data Understanding
+* Data Preparation
+* Data Modeling
+* Evaluation
+* Future Improvements
 
 
 Find below the documentation for Spacy's sentiment analysis library:
